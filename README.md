@@ -14,6 +14,6 @@ My name is Samuel Lucas, undergraduated student in Information Tecnhology and De
 - :blue_heart: Techs: Vue.js, Kotlin, Spring, Docker.
 - :books: Studying CI/CD with Jenkins, Docker, Ansible and AWS :heart:
 
-> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
+> :octocat: [https://samuelferino.netlify.com/](https://samuelferino.netlify.com/)
 
 ---
