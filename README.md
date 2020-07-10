@@ -10,9 +10,9 @@
 
 My name is Samuel Lucas, undergraduated student in Information Tecnhology and DevOps entuasiast.
 
-- :office_worker: Estagiário Desenvolvedor na **LIAX Tecnologia**
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
-- :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
+- :office_worker: Undergratuated assistent at the Collaborative & Automated Software Engineering Lab and Research Group  - IMD/UFRN
+- :blue_heart: Techs: Vue.js, Kotlin, Spring, Docker.
+- :books: Studying CI/CD with Jenkins, Docker, Ansible and AWS :heart:
 
 > :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 
