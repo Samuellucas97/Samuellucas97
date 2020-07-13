@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/samuellucas97)](https://t.me/samuellucas97)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuellucas97@ufrn.edu.br)](mailto:samuellucas97@ufrn.edu.br)
 
-## Hi! 👋
+## Hello! 👋
 
 My name is Samuel Lucas, undergraduated student in Information Tecnhology and DevOps entuasiast.
 
