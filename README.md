@@ -10,7 +10,7 @@ My name is Samuel Lucas, undergraduated student in Information Tecnhology and De
 
 - :office_worker: Scholarship holder at the Tutorial Education Program of Computer Science - DIMAP/UFRN
 - :office_worker: Undergratuated research assistent at the Collaborative & Automated Software Engineering Lab and Research Group  - IMD/UFRN
-- :blue_heart: Techs: Vue.js, Spring, Docker.
+- :blue_heart: Techs: Vue.js/React.js, Spring (Java/Kotlin), Docker.
 - :books: Studying CI/CD with Jenkins, Docker, Ansible and AWS :heart:
 
 > :octocat: [https://samuellucas97.github.io/](https://samuellucas97.github.io/)
