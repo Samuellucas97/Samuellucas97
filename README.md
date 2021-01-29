@@ -9,7 +9,7 @@ Learning **Jenkins** with **Ansible** and **Docker**
 
 📫 How to reach me:
 
-[<img align="left" alt="Samuellucas97 @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> linkedin.com/in/mariorez](https://linkedin.com/in/mariorez)<br clear=all>
+[<img align="left" alt="samuel1797 @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> linkedin.com/in/samuel1797](https://www.linkedin.com/in/samuel1797/)<br clear=all>
 [<img align="left" alt="Samuellucas97 @ Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"> t.me/samuellucas97](https://t.me/samuellucas97)<br clear=all>
 [<img align="left" alt="Samuel @ Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg"> researchgate.net/profile/Samuel-Ferino](https://www.researchgate.net/profile/Samuel-Ferino)<br clear=all>
 
