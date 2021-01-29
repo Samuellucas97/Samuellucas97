@@ -1,18 +1,20 @@
-# :man_technologist: Samuel Lucas
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mariorez&repo=mariorez&countColorcountColor)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel1797/)](https://www.linkedin.com/in/samuel1797/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuellucas97@ufrn.edu.br)](mailto:samuellucas97@ufrn.edu.br)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/samuellucas97)](https://t.me/samuellucas97)
+<h1>Hi there 👋</h1>
 
-## Hello! 👋
+I'm a master's-degree student at [Federal Universitty of Rio Grande do Norte](https://www.ufrn.br/).
+Learning **Jenkins** with **Ansible** and **Docker**
 
-My name is Samuel Lucas, undergraduated student in Information Tecnhology and DevOps entuasiast.
+📫 How to reach me:
 
-- :office_worker: Scholarship holder at the Tutorial Education Program of Computer Science - DIMAP/UFRN
-- :office_worker: Undergratuated research assistent at the Collaborative & Automated Software Engineering Lab and Research Group  - IMD/UFRN
-- :blue_heart: Techs: Vue.js/React.js, Spring (Java/Kotlin), Docker.
-- :books: Studying CI/CD with Jenkins, Docker, Ansible and AWS :heart:
+[<img align="left" alt="Samuellucas97 @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> linkedin.com/in/mariorez](https://linkedin.com/in/mariorez)<br clear=all>
+[<img align="left" alt="Samuellucas97 @ Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"> t.me/samuellucas97](https://t.me/samuellucas97)<br clear=all>
+[<img align="left" alt="Samuel @ Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg"> researchgate.net/profile/Samuel-Ferino](https://www.researchgate.net/profile/Samuel-Ferino)<br clear=all>
 
-> :octocat: [https://samuellucas97.github.io/](https://samuellucas97.github.io/)
+<hr>
 
----
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuellucas97&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=samuellucas97&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=samuellucas97&hide_border=true)
