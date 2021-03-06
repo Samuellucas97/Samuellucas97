@@ -5,5 +5,10 @@
 
 ## 📫 How to reach me:
 
-## Extra
+<span>
+<img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>
+<img src="https://img.icons8.com/bubbles/100/000000/email.png"/>
+</span>
+
+## Extra information about me:
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuellucas97&layout=compact)
