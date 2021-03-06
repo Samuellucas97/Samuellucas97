@@ -2,6 +2,7 @@
 
  * I'm a master's-degree student in Systems and Computation at [Federal University of Rio Grande do Norte (UFRN)](https://www.ufrn.br/);
  * Member of the [Laboratory and Research Group in Automated and Collaborative Software Engineer (CASE)](http://caseufrn.github.io/) at UFRN;
+ * My interests are DevOps and Distributed Systems;
  * Learning **Jenkins** with **Ansible** and **Docker**.
 
 ## 📫 How to reach me:
