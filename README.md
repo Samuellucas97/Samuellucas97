@@ -8,8 +8,8 @@
 ## 📫 How to reach me:
 
 <span>
-<img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>
-<img src="https://img.icons8.com/bubbles/100/000000/email.png"/>
+<a href="https://www.linkedin.com/in/samuel1797/"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/></a>
+<a href="mailto:samuellucas97@ufrn.edu.br"><img src="https://img.icons8.com/bubbles/100/000000/email.png"/></a>
 </span>
 
 ## Extra information about me:
