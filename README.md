@@ -6,7 +6,6 @@
 
  * I'm a master's-degree student in Systems and Computation at [Federal University of Rio Grande do Norte (UFRN)](https://www.ufrn.br/);
  * My interests are DevOps and Distributed Systems;
- * Learning **Jenkins** with **Ansible** and **Docker**.
 
 
 If You'd like to know more about me, please visit my personal website: [https://samuellucas97.github.io/](https://samuellucas97.github.io/)
