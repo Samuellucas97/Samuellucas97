@@ -8,5 +8,12 @@
  * My interests are DevOps and Distributed Systems;
 
 
+### Languages & Tools 
+<p align="left"> 
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   <a href="https://www.centos.org/" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2017/10/centos-logo-1.png" alt="centos" width="120" height="40"/> </a> 
+  
+  
+</p>    
+
 If You'd like to know more about me, please visit my personal website: [https://samuellucas97.github.io/](https://samuellucas97.github.io/)
 
