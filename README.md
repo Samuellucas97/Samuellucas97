@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Samuel Lucas 👋</h1>
+<h1>Hi there, I'm Samuel Ferino 👋</h1>
 
 <a href="https://linkedin.com/in/samuel1797/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/samuelferino17"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
