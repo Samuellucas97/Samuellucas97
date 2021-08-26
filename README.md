@@ -24,5 +24,5 @@
    
 </p>    
 
-If You'd like to know more about me, please visit my personal website: [https://samuellucas97.github.io/](https://samuellucas97.github.io/)
+If you'd like to know more about me, please visit my personal website: [https://samuellucas97.github.io/](https://samuellucas97.github.io/)
 
