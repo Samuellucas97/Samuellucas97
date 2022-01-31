@@ -6,7 +6,7 @@
 
  * I'm a master's-degree student in Systems and Computation at [Federal University of Rio Grande do Norte (UFRN)](https://www.ufrn.br/);
  * My interests are DevOps, Distributed Systems, and Machine Learning;
- * Nowdays, I'm learning web development in Golang 😍 
+ * Nowdays, I'm trying to practice Competitive Programming.
  
 
 ### Languages & Tools 
